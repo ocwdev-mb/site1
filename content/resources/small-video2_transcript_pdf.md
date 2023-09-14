@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/site1/small-video2_transcript.pdf
+file: /courses/1111-site1-spring-2027/small-video2_transcript.pdf
 file_size: 904719
 file_type: application/pdf
 image_metadata:
