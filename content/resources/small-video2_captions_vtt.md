@@ -2,18 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/site1/1X6ADaCyeyuTy3HXvEF7XSaRVQ5N5_SHp/small-video.mp4
-file_size: 32766
-file_type: video/mp4
+file: /courses/site1/small-video2_captions.vtt
+file_size: 132
+file_type: text/vtt
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Video
-title: small-video.mp4
-uid: 13732208-c174-4098-b0ed-4cbb2c80d837
+resourcetype: Document
+title: small-video2_captions.vtt
+uid: 93c09c91-87b6-4547-bb69-007dd49c31e6
 video_files:
   archive_url: ''
   video_captions_file: ''
