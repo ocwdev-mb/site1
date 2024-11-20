@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/1111-site1-spring-2027/small-video2_transcript.pdf
+file: /courses/111-my-course-spring-2027/small-video2_transcript.pdf
 file_size: 904719
 file_type: application/pdf
 image_metadata:
@@ -13,7 +13,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '21A.461F21 What is Capitalism? Lecture Slides: Racial Capitalism   '
-uid: 347a4330-ca9c-48a4-9c72-921243a8d76e
+uid: bd762645-9465-444d-9007-d32b83c0cc30
 video_files:
   archive_url: ''
   video_captions_file: ''
