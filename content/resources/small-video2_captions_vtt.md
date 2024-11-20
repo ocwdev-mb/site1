@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/site1/small-video2_captions.vtt
+file: /courses/1111-site1-spring-2027/small-video2_captions.vtt
 file_size: 132
 file_type: text/vtt
 image_metadata:

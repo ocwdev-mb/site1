@@ -8,25 +8,24 @@
   "legacy_uid": "",
   "instructors": {
     "content": [],
-    "website": "site1"
+    "website": "my-first-site"
   },
   "course_image": {
     "content": "",
-    "website": "site1"
+    "website": "my-first-site"
   },
-  "course_title": "site1",
+  "course_title": "My Course",
   "hide_download": false,
-  "course_description": "site1",
+  "mit_learn_topics": [],
+  "course_description": "dfdfdf",
   "department_numbers": [
     "1"
   ],
   "extra_course_numbers": "",
-  "primary_course_number": "1111",
-  "course_image_thumbnail": {
-    "content": "",
-    "website": "site1"
-  },
-  "learning_resource_types": [],
-  "site_uid": "842de6c8-9df8-4a5c-ae60-fd7fc206f209",
+  "primary_course_number": "111",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "cb72c898-6ba8-4825-8003-8bb4cfe96e36",
   "site_short_id": "site1"
 }
