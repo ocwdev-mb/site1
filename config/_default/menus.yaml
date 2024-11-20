@@ -3,3 +3,7 @@ leftnav:
   name: Page 1
   pageRef: /pages/page-1
   weight: 10
+- identifier: 8b6b0f70-be81-4ce3-92c1-90a60fe02849
+  name: video gallery
+  pageRef: /video_galleries/video-gallery
+  weight: 20
